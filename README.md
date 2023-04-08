@@ -2,9 +2,9 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: siteul
+Application under test: 
 
-API Documentation: [documentatia aplicatiei](https://docs.google.com/document/d/1MiOXdXpvpYMMKGyLsaP23cOmijW4sBis5LkbugVYQKc/edit)
+API Documentation: 
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/dianahuma/Proiect-practic-testare-manuala-/edit/main/README.md#1-testing-section) and [SQL section](https://github.com/dianahuma/Proiect-practic-testare-manuala-/edit/main/README.md#2-sql-section).**
 
