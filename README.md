@@ -2,9 +2,9 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: 
+Application under test: [PetMart](https://www.petmart.ro/)
 
-API Documentation: 
+API Documentation: JIRA, Zephyr Squad
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/dianahuma/Proiect-practic-testare-manuala-/edit/main/README.md#1-testing-section) and [SQL section](https://github.com/dianahuma/Proiect-practic-testare-manuala-/edit/main/README.md#2-sql-section).**
 
@@ -12,34 +12,47 @@ Tools used:
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+The stories below were created in JIRA and describe the functional specifications of the Search, Cart, Order and Reviews modules.
 
 
 # 1 Testing section
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing for the Search, Cart, Order and Reviews modules from the PetMart application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-
+* Project manager:
+* QA Lead:
+* QA Tester: Diana Huma 
 
 #### 1.1.2 Entry criteria defined
-
+* All test hardware platform have been successfully instaled, configured and functioning properly.
+* All the necessary documentation, design and requirements information is available(that will allow testers to operate the system and judge the correct behaviour).
+* Functional specifications are defined.
+* Roles needed for the project are allocated.
+* QA testers have completely understood the requirements.
+* Test scenarios, test cases were reviewed.
+* Initial project risks were detected and mitigated.
 
 #### 1.1.3 Exit criteria defined
-
+* A certain level of requirements coverage has been achieved.
+* All tests have been executed.
+* No high priority or severe bugs are left outstanding.
+* All resolved bugs have been re-tested and appoved by the QA team.
+* All high-risk areas have been fully tested, with only minor residual risks left outstanding.
+* The schedule has been achieved.
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__ The scope of this project is limited to the testing of the features in the succeeding sections of this document. All module features that have been defined in the software requirements specification must be tested.
+* __Tests not in scope:__ Non-functional testing like performance, security testing, compatibility testing is beyond scope of this project.
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
+* Project risks: Insufficient resources for testing: (eg time or staff), Repeated Requirements Changes, Dependence on Other Teams or Third Parties, Inadequate Communication 
+* Product risks: Security Issues, Browser and Device Incompatibility, Low performance, Defective Functionality, Incorrect or Outdated Content
 
 #### 1.1.6 Evaluating entry criteria
 
@@ -47,12 +60,21 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 ## 1.2 Test Monitoring and Control
 
-It will be done by generating periodic reports that reflect the current status of the test.
+Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements. The following test conditions were found:
+ * Verify if the user can apply discount coupons to receive discounts during the checkout process
+ * Verify the shopping cart functionality
+ * Verify if the user can reach the checkout page and place an order
+ * Verify if the user can access the order check feature from the website.
+ * Verify if the user can access the order check function without being logged in
+ * Verify the search functionality for complete queries
+ * Verify the search functionality for partial queries
+ * Verify that user can view product reviews and ratings on the product page
+ * Verify that authenticated user can successfully add a review to a product they have purchased
+ * Verify that each review displays the author's name and the review date.
 
 ## 1.4 Test Design
 
@@ -60,7 +82,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+-> 
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
