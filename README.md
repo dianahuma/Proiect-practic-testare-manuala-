@@ -98,7 +98,7 @@ Test cases were added to the cycle summary:
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary.
-* Bugs have been created based on the failed tests.The complete bug reports can be found here: [created_bugs.pdf](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Bugsreport.pdf)
+* Bugs have been created based on the failed tests.The complete bug reports can be found here: [Bugsreport.pdf](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Bugsreport.pdf)
     *   Incorrect product pricing displayed on petmart.ro
     *   Unable to Submit Review with Special Characters
 
