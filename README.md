@@ -86,10 +86,10 @@ Testing environment is up and running: (https://www.petmart.ro/)
 Access to the testing environment is given: Adresa email : ene.ionel@gmail.com  | Password : eneionel12345
 Cycle summary was created.
 Test cases were added to the cycle summary: 
-[Cycle summary1](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS1.PNG)
-[Cycle summary2](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS2.PNG)
-[Cycle summary3](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS3.PNG)
-[Cycle summary4](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS4.PNG)
+*[Cycle summary1](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS1.PNG)
+*[Cycle summary2](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS2.PNG)
+*[Cycle summary3](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS3.PNG)
+*[Cycle summary4](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS4.PNG)
 
 
 ## 1.6 Test Execution
@@ -104,6 +104,6 @@ Test cases were added to the cycle summary:
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Forward%20Traceability_22_9_2023%20(2).csv)
-* Test execution chart was generated: [Test execution chart] (https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Test%20execution%20chart.png)
+* Test execution chart was generated: [Test execution chart](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Test%20execution%20chart.png)
 
 # 2 SQL section
