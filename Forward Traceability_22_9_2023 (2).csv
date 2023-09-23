@@ -1,0 +1,13 @@
+Requirements;Tests;Executions;Defects
+DH-27 - Unable to Submit Review with Special Characters - 1 defect;DH-26 - Verify that authenticated user can successfully add a review to a product they have purchased;Reviews  - FAIL;DH-27 - To Do - Unable to Submit Review with Special Characters - step
+DH-24 - As a user, I want to be able to view and add reviews to products;DH-25 - Verify that user can view product reviews and ratings on the product page;Reviews  - PASS;None
+DH-24 - As a user, I want to be able to view and add reviews to products - 1 defect;DH-26 - Verify that authenticated user can successfully add a review to a product they have purchased;Reviews  - FAIL;DH-27 - To Do - Unable to Submit Review with Special Characters - step
+DH-24 - As a user, I want to be able to view and add reviews to products;DH-28 - Verify that each review displays the author's name and the review date.;Reviews  - PASS;None
+DH-18 - As a user, I want to be able to add products to my cart and proceed to checkout on petmart.ro - 1 defect;DH-12 - Verify the shopping cart functionality;Cart   - FAIL;DH-14 - To Do -  Incorrect product pricing displayed on petmart.ro - step
+DH-18 - As a user, I want to be able to add products to my cart and proceed to checkout on petmart.ro;DH-19 - Verify if the user can reach the checkout page and place an order;Cart   - PASS;None
+DH-18 - As a user, I want to be able to add products to my cart and proceed to checkout on petmart.ro;DH-23 - Check if the user can apply discount coupons to receive discounts during the checkout process;Cart   - PASS;None
+DH-16 - As a user, I want to be able to search for a specific product on petmart.ro.;DH-15 - Verify the search functionality for complete queries;Search   - PASS;None
+DH-16 - As a user, I want to be able to search for a specific product on petmart.ro.;DH-17 - Verify the search functionality for partial queries;Search   - PASS;None
+DH-14 -  Incorrect product pricing displayed on petmart.ro - 1 defect;DH-12 - Verify the shopping cart functionality;Cart   - FAIL;DH-14 - To Do -  Incorrect product pricing displayed on petmart.ro - step
+DH-4 - As a user I want to be able to check an order placed on the website www.petmart.ro;DH-29 - Verify if the user can access the order check function without being logged in;Ad hoc  - PASS;None
+DH-4 - As a user I want to be able to check an order placed on the website www.petmart.ro;DH-7 - Verify if the user can access the order check feature from the website.;Ad hoc  - PASS;None
