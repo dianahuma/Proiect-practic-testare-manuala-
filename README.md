@@ -78,34 +78,32 @@ The testing process will be executed based on the above requirements. The follow
 
 ## 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
-
-**Test cases:**
--> 
-
-
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/test%20cases.pdf)
 
 ## 1.5 Test Implementation
 
-The following elements are needed to be ready before the test execution phase begins:
+Testing environment is up and running: (https://www.petmart.ro/)
+Access to the testing environment is given: Adresa email : ene.ionel@gmail.com  | Password : eneionel12345
+Cycle summary was created.
+Test cases were added to the cycle summary: 
+[Cycle summary1] (https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS1.PNG)
+[Cycle summary2] (https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS2.PNG)
+[Cycle summary3] (https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS3.PNG)
+[Cycle summary4] (https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS4.PNG)
 
-* enter here what needs to be ready for the test execution to begin
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Test cases are executed on the created test Cycle summary.
+* Bugs have been created based on the failed tests.The complete bug reports can be found here: [created_bugs.pdf](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Bugsreport.pdf)
+    *   Incorrect product pricing displayed on petmart.ro
+    *   Unable to Submit Review with Special Characters
 
 
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* Test execution chart was generated, the final report shows.... -> describe the final report
-
--> enter here test execution report/chart
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Forward%20Traceability_22_9_2023%20(2).csv)
+* Test execution chart was generated: [Test execution chart] (https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Test%20execution%20chart.png)
 
 # 2 SQL section
