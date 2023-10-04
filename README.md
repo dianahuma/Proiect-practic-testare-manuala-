@@ -8,11 +8,12 @@ API Documentation: JIRA, Zephyr Squad
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/dianahuma/Proiect-practic-testare-manuala-/edit/main/README.md#1-testing-section) and [SQL section](https://github.com/dianahuma/Proiect-practic-testare-manuala-/edit/main/README.md#2-sql-section).**
 
-Tools used:
+Tools used: Jira 
 
 # Functional specifications
 
 The stories below were created in JIRA and describe the functional specifications of the Search, Cart, Order and Reviews modules.
+
 
 
 # 1 Testing section
@@ -24,8 +25,8 @@ The Test Plan is designed to describe all details of testing for the Search, Car
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-* Project manager:
-* QA Lead:
+* Project manager: Valeriu Escu 
+* QA Lead: Tania Leonte 
 * QA Tester: Diana Huma 
 
 #### 1.1.2 Entry criteria defined
