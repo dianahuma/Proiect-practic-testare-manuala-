@@ -68,8 +68,8 @@ The testing process will be executed based on the above requirements. The follow
  * Verify if the user can reach the checkout page and place an order
  * Verify if the user can access the order check feature from the website.
  * Verify if the user can access the order check function without being logged in
- * Verify the search functionality for complete queries
- * Verify the search functionality for partial queries
+ * Verify the search functionality for complete queries (ex: Royal Canin Hypoallergenic Small Dog, 3.5 kg)
+ * Verify the search functionality for partial queries (ex: royal canin)
  * Verify that the user can view product reviews and ratings on the product page
  * Verify that authenticated users can successfully add a review to a product they have purchased
  * Verify that each review displays the author's name and the review date.
