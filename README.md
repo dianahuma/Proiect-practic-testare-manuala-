@@ -13,6 +13,7 @@ Tools used: Jira
 # Functional specifications
 
 The stories below were created in JIRA and describe the functional specifications of the Search, Cart, Order, and Reviews modules.
+[Stories](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Stories.PNG)
 
 
 
