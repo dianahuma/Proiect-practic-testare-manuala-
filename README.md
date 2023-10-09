@@ -14,7 +14,8 @@ Tools used: Jira
 
 The stories below were created in JIRA and describe the functional specifications of the Search, Cart, Order, and Reviews modules.
 
-*[Stories](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Stories.PNG)
+![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Stories.PNG)
+
 
 
 
@@ -61,7 +62,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ## 1.2 Test Monitoring and Control
 
 Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken. 
-*[Test metrics](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/test%20metrics.png)
+![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/test%20metrics.png)
 
 ## 1.3 Test Analysis
 
