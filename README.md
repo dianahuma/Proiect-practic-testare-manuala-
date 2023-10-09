@@ -13,7 +13,8 @@ Tools used: Jira
 # Functional specifications
 
 The stories below were created in JIRA and describe the functional specifications of the Search, Cart, Order, and Reviews modules.
-[Stories](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Stories.PNG)
+
+*[Stories](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Stories.PNG)
 
 
 
@@ -59,7 +60,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## 1.2 Test Monitoring and Control
 
-Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken.
+Periodic reports were generated to reflect the current status of the testing process, in case of major problems, control measures could be taken. 
+*[Test metrics](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/test%20metrics.png)
 
 ## 1.3 Test Analysis
 
@@ -85,13 +87,7 @@ Testing environment is up and running: [petmart.ro](https://www.petmart.ro/)
 Access to the testing environment is given: Email address: ene.ionel@gmail.com  | Password: eneionel12345
 Cycle summary was created.
 Test cases were added to the cycle summary: 
-*[Cycle summary1](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS1.PNG)
-
-*[Cycle summary2](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS2.PNG)
-
-*[Cycle summary3](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS3.PNG)
-
-*[Cycle summary4](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/CS4.PNG)
+*[Cycle summaries](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/cycle%20summary.pdf)
 
 
 ## 1.6 Test Execution
