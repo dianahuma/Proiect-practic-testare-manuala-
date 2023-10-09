@@ -88,7 +88,7 @@ Testing environment is up and running: [petmart.ro](https://www.petmart.ro/)
 Access to the testing environment is given: Email address: ene.ionel@gmail.com  |  Password: eneionel12345
 Cycle summary was created.
 Test cases were added to the cycle summary: 
-*[Cycle summaries](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/cycle%20summary.pdf)
+*[Cycle summary](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/cycle%20summary.pdf)
 
 
 ## 1.6 Test Execution
