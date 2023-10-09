@@ -102,8 +102,8 @@ Test cases were added to the cycle summary:
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Forward%20Traceability_22_9_2023%20(2).csv)
-* Test execution chart was generated: [Test execution chart](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Test%20execution%20chart.png)
+* The traceability matrix was generated and can be found here: ![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Forward%20Traceability_22_9_2023%20(2).csv)
+* Test execution chart was generated: ![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Test%20execution%20chart.png)
 
   ## 1.8 Conclusions:
 * During this testing, all 10 test cases planned for execution were tested.
