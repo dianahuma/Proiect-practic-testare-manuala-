@@ -94,7 +94,7 @@ Test cases were added to the cycle summary:
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary.
-* Bugs have been created based on the failed tests.The complete bug reports can be found here: [Bugsreport.pdf](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Bugsreport.pdf)
+* Bugs have been created based on the failed tests.The complete bug reports can be found here:  ![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Bugsreport.pdf)
     *   Incorrect product pricing displayed on petmart.ro
     *   Unable to Submit Review with Special Characters
 
@@ -102,7 +102,7 @@ Test cases were added to the cycle summary:
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: ![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Forward%20Traceability_22_9_2023%20(2).csv)
+* The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Forward%20Traceability_22_9_2023%20(2).csv)
 * Test execution chart was generated: ![image](https://github.com/dianahuma/Proiect-practic-testare-manuala-/blob/main/Test%20execution%20chart.png)
 
   ## 1.8 Conclusions:
